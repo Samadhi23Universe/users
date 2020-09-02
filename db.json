@@ -1,0 +1,31 @@
+  {   
+   "users": [
+      {
+        "photoUrl":
+          "https://www.biography.com/.image/t_share/MTY2NzA3ODE3OTgwMzcyMjYw/jeff-bezos-andrew-harrer_bloomberg-via-getty-images.jpg",
+        "id": 2,
+        "followed": true,
+        "fullName": "Jeff Bezos",
+        "status": "CEO of Amazon",
+        "location": { "city": "Miami", "country": "America" }
+      },
+      {
+        "photoUrl":
+          "https://www.biography.com/.image/c_fill%2Ccs_srgb%2Cfl_progressive%2Ch_400%2Cq_auto:good%2Cw_620/MTY2MzU3Nzk2OTM2MjMwNTkx/elon_musk_royal_society.jpg",
+        "id": 3,
+        "followed": false,
+        "fullName": "Elon Musk",
+        "status": "CEO of SpaceX/Tesla",
+        "location": { "city": "Los Angeles", "country": "America" }
+      },
+      {
+        "photoUrl":
+          "https://thumbor.forbes.com/thumbor/fit-in/416x416/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5d89f12b22254b0008e14809%2F0x0.jpg%3Fbackground%3D000000%26cropX1%3D1434%26cropX2%3D2828%26cropY1%3D480%26cropY2%3D1873",
+        "id": 4,
+        "followed": true,
+        "fullName": "Ray Dalio ",
+        "status": "Founder of Bridgewater Associates",
+        "location": { "city": "New York", "country": "America" }
+      }
+   ]
+}
