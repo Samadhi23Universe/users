@@ -1,6 +1,15 @@
   {   
    "users": [
       {
+       "photoUrl":
+          "https://api.time.com/wp-content/uploads/2014/12/450132218.jpg",
+        "id": 1,
+        "followed": true,
+        "fullName": "Neill deGrasse Tyson",
+        "status": "Astrophysicist",
+        "location": { "city": "Los Angeles", "country": "America" }
+      }, 
+     {
         "photoUrl":
           "https://www.biography.com/.image/t_share/MTY2NzA3ODE3OTgwMzcyMjYw/jeff-bezos-andrew-harrer_bloomberg-via-getty-images.jpg",
         "id": 2,
