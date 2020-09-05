@@ -1,5 +1,5 @@
   {   
-   "users": [
+   "items": [
       {
        "photoUrl":
           "https://api.time.com/wp-content/uploads/2014/12/450132218.jpg",
@@ -36,6 +36,8 @@
         "status": "Founder of Bridgewater Associates",
         "location": { "city": "New York", "country": "America" }
       }
-   ]
+   ],
+    "totalCount": 4,
+    "error": null
     
 }
